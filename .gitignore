@@ -219,3 +219,6 @@ __marimo__/
 
 # exclude unzipped code files
 ztm-data-engineering-main
+
+# exclude data files
+data/
